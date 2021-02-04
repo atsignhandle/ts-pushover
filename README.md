@@ -4,7 +4,8 @@
 
 ![Mr Whiskers](./example.jpg)
 
+Mr. Whiskers is the inventor of Proof of Meow.
+
 `yarn && yarn build && yarn dev`
 
-## TODO
 
